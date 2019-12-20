@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pizzeria</name>
+    </assembly>
+    <members>
+        <member name="M:Pizzeria.Controllers.KlientsController.GetKlients(System.String)">
+            <summary>
+            Pobiera listę klientów
+            </summary>
+            <param name="order"></param>
+            <returns>Zwraca posortowaną listę wszystkich klientów</returns>
+        </member>
+    </members>
+</doc>
